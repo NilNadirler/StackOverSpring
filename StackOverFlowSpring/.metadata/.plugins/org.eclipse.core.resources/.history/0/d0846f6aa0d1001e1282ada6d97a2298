@@ -1,0 +1,8 @@
+package com.example.stack.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ImageService {
+
+}
